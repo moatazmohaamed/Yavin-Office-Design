@@ -9,11 +9,9 @@ Bootstrap website for a company that creates and customizes office spaces. It co
 - Clean design with background images/patterns
 - Responsive design
 - Custom JavaScript for the stat counter
-- Nav scroll effect
 - Project area
 - Testimonial slider/carousel
 - Contact form
-- Inner article page
 - Font awesome icons
 
 ## Usage
